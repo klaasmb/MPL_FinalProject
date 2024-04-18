@@ -1,5 +1,7 @@
 # AIDI_1002_FINAL_PROJECT
+
 Title:NLP example with MLP added classifier
+
 Group Member Names :
 Klaas Braga
 

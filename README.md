@@ -17,4 +17,8 @@ First, clone the repository locally:
 
 git clone https://github.com/klaasmb/MPL_FinalProject.git 
 
+# Contribution Code :
 
+This documentation outlines the contributions and enhancements made to the machine learning model originally described in the article focusing on integrating text and numeric data using sklearn's libraries. The original model utilized a RandomForest classifier in combination with feature transformation techniques to handle mixed data types for classification tasks.
+
+Notebook link: AIDI-1002_Klaas_Braga_Final_Project.ipynb
